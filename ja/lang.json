@@ -1,5 +1,4 @@
-{
-  "iso": "ja",
+{ "iso": "ja",
   "docVersion": "2.3.X",
   "links": {
     "api": "API",
@@ -39,6 +38,24 @@
     "meta": {
       "title": "Nuxt.js - ユニバーサル Vue.js アプリケーション",
       "description": "Nuxt.js はサーバーサイドレンダリングやコード分割、ホットリローディング、静的ファイル生成などを備えた Vue.js アプリケーションを構築するためのミニマルなフレームワークです！"
+    },
+    "welcome": {
+      "[WIP]": "[WIP]",
+      "title_prefix": "The",
+      "title_vuejs": "Vue.js",
+      "title_suffix": "Framework",
+      "app_types_prefix": "",
+      "app_types": ["ユニバーサルアプリケーション", "スタティックウェブアプリケーション", "シングルページアプリケーション", "デスクトップアプリケーション", "モバイルアプリケーション", "プログレッシブ Web App"],
+      "app_types_suffix": "も！",
+      "welcome_content_description": "[JPSTUB][WIP] Nuxt.js には Vue.js アプリケーション開発を楽しむためのすべての設定があらかじめ含まれています！"
+    },
+    "why": {
+      "why_title": "なぜ Nuxt.js がいいの？",
+      "performant": "高性能"
+    },
+    "modes": {
+    },
+    "codesandbox": {
     },
     "codesandbox_title": "Nuxt.js をオンラインで試す",
     "codesandbox_open": "CodeSandBox.io で開く",
